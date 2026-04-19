@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260419181351YYNG0F</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260419181351WKAIFD</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>NUESTRO SITE ORGANIZADO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Gustavo Vegas Haro</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Exe learning en el que explicamos cómo crear un Site de Google y su gestión. Dirigido a alumnado de tercer ciclo de Educación Primaria. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776610267715</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo5vvs0l-cfwh9wn2o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SITE ORGANIZADO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SITE ORGANIZADO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-cfwh9wn2o</odePageId>
+      <odeBlockId>block-mo5vvs0l-b2xuptavm</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-cfwh9wn2o</odePageId>
+          <odeBlockId>block-mo5vvs0l-b2xuptavm</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0l-nn6dx8aog</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>En este recurso vas a poder consultar los pasos más importantes a realizar en tu site con el fin de tenerlo organizado y al día. </p>
+<p>Aprenderemos a:</p>
+<p>- Crear el site. </p>
+<p>- Publicarlo. </p>
+<p>- Crear la estructura de páginas. </p>
+<p>- Colocar un pie de página. </p>
+<p>- Otorgar una licencia a nuestra web (site).</p>
+<p>- Compartir el site con los permisos que creamos oportunos. </p>
+<p>- Insertar o embeber elementos (documentos, imágenes, vídeos, productos de otras aplicaciones). </p>
+<p>- Consejos de redacción, organización de las páginas, etc. </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>En este recurso vas a poder consultar los pasos más importantes a realizar en tu site con el fin de tenerlo organizado y al día. </p>\n<p>Aprenderemos a:</p>\n<p>- Crear el site. </p>\n<p>- Publicarlo. </p>\n<p>- Crear la estructura de páginas. </p>\n<p>- Colocar un pie de página. </p>\n<p>- Otorgar una licencia a nuestra web (site).</p>\n<p>- Compartir el site con los permisos que creamos oportunos. </p>\n<p>- Insertar o embeber elementos (documentos, imágenes, vídeos, productos de otras aplicaciones). </p>\n<p>- Consejos de redacción, organización de las páginas, etc. </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5vvs0l-czrtdfgf2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Crear un Site de Google</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Crear un Site de Google</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-czrtdfgf2</odePageId>
+      <odeBlockId>block-mo5vvs0m-t81hak4y1</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-czrtdfgf2</odePageId>
+          <odeBlockId>block-mo5vvs0m-t81hak4y1</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-jfxi4qfcs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Para crear un Site de Google tienes varias opciones:</p>
+<p>- Buscar en google "Sites de google" y entrar con tu cuenta corporativa de correo electrónico.</p>
+<p><img src="{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-14_a_las_23.49.55.png" alt="Captura de acceso a Google Site" width="677" height="144" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>- Entrar en tu cuenta de correo corporativo y, una vez dentro, picar en el menú de aplicaciones, que se encuentra en la parte superior derecha de tu pantalla y buscar, de entre las aplicaciones que se despliegan la de google Site, </p>
+<p><img src="{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-14_a_las_23.50.24.png" alt="Captura de menú de aplicaciones de google" width="55" height="59" style="display: block; margin-left: auto; margin-right: auto;" /><img src="{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-14_a_las_23.53.34.png" alt="Captura de pantalla del menú de aplicaciones de google" width="365" height="467" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Una vez dentro de Google Sites, hemos de CREAR uno nuevo. En el siguiente vídeo explicamos cómo. </p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Para crear un Site de Google tienes varias opciones:</p>\n<p>- Buscar en google \"Sites de google\" y entrar con tu cuenta corporativa de correo electrónico.</p>\n<p><img src=\"{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-14_a_las_23.49.55.png\" alt=\"Captura de acceso a Google Site\" width=\"677\" height=\"144\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>- Entrar en tu cuenta de correo corporativo y, una vez dentro, picar en el menú de aplicaciones, que se encuentra en la parte superior derecha de tu pantalla y buscar, de entre las aplicaciones que se despliegan la de google Site, </p>\n<p><img src=\"{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-14_a_las_23.50.24.png\" alt=\"Captura de menú de aplicaciones de google\" width=\"55\" height=\"59\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><img src=\"{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-14_a_las_23.53.34.png\" alt=\"Captura de pantalla del menú de aplicaciones de google\" width=\"365\" height=\"467\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>Una vez dentro de Google Sites, hemos de CREAR uno nuevo. En el siguiente vídeo explicamos cómo. </p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-czrtdfgf2</odePageId>
+      <odeBlockId>block-mo5vvs0m-b5b52kxo9</odeBlockId>
+      <blockName>CREAMOS NUESTRO SITE. VÍDEO EXPLICATIVO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-czrtdfgf2</odePageId>
+          <odeBlockId>block-mo5vvs0m-b5b52kxo9</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-3o0j86ct2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><iframe width="640" height="480" src="https://drive.google.com/file/d/1NIo-K5fpGx_TJaqbUIyUfE_sk2ft7nE-/preview" allow="autoplay"></iframe></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><iframe width=\"640\" height=\"480\" src=\"https://drive.google.com/file/d/1NIo-K5fpGx_TJaqbUIyUfE_sk2ft7nE-/preview\" allow=\"autoplay\"></iframe></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5vvs0l-hajagzwnp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Publicar el Site</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Publicar el Site</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-hajagzwnp</odePageId>
+      <odeBlockId>block-mo5vvs0m-oyah4u81h</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-hajagzwnp</odePageId>
+          <odeBlockId>block-mo5vvs0m-oyah4u81h</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-uu959fb8u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Ya hemos creado nuestro site y le hemos puesto título ¡Es hora de publicarlo!</p>
+<p>Para ello, vamos a fiarnos bien en la siguiente imagen, en la cual aparecen cuatro pasos que hemos de dar. Puedo que alguno de ellos ya los hayas dado a la hora de crear tu site. </p>
+<p><img src="{{context_path}}/content/resources/PublicarSite.jpg" alt="Captura de pantalla y pasos para publicar un site" width="1420" height="716" /></p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Ya hemos creado nuestro site y le hemos puesto título ¡Es hora de publicarlo!</p>\n<p>Para ello, vamos a fiarnos bien en la siguiente imagen, en la cual aparecen cuatro pasos que hemos de dar. Puedo que alguno de ellos ya los hayas dado a la hora de crear tu site. </p>\n<p><img src=\"{{context_path}}/content/resources/PublicarSite.jpg\" alt=\"Captura de pantalla y pasos para publicar un site\" width=\"1420\" height=\"716\" /></p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-hajagzwnp</odePageId>
+      <odeBlockId>block-mo5vvs0m-mq4j59q9b</odeBlockId>
+      <blockName>¿QUÉ NOMBRE LE PONGO A MI SITE?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-hajagzwnp</odePageId>
+          <odeBlockId>block-mo5vvs0m-mq4j59q9b</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-rqm6ia7s3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Elegir el nombre de nuestra página web (paso 4 de la anterior imagen) es algo muy importante, pues será la manera en que la gente que navega por internet puede encontrarla y además será la primera impresión que el visitante se llevará de nuestro espacio y de nosotros. </p>
+<figure class="exe-figure exe-image position-center license-pd" style="width: 394px; text-align: center;"><img src="{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-15_a_las_9.32.56.png" alt="Chica y chico colaborando y trabajando con dispositivos electrónicos" width="394" height="394" />
+<figcaption class="figcaption"><span style="font-size: 10pt;"><span class="author">Imagen creada por la IA Dall-E en la app Canva</span>. <span class="title"><em>Colaborando con dispositivos</em></span> <span class="license"><span class="sep">(</span>Dominio público<span class="sep">)</span></span></span></figcaption>
+</figure>
+<p>Sigue los siguientes consejos:</p>
+<p><strong>1. Refleja el Contenido:</strong><br />- Asegúrate de que el nombre del sitio refleje el contenido o el propósito principal. Si es sobre animales, deportes o proyectos escolares, el nombre debería indicarlo claramente.</p>
+<p><strong>2. Fácil de Recordar:</strong><br />- Elige un nombre que sea fácil de recordar para tus compañeros de clase y profesores. Evita combinaciones complicadas o muy largas.</p>
+<p><strong>3. Creatividad y Originalidad:</strong><br />- ¡Sé creativo! Intenta pensar en un nombre único y original que destaque tu personalidad o el tema de tu sitio.</p>
+<p><strong>4. Evita Abreviaturas Confusas:</strong><br />- Evita abreviaturas que puedan ser confusas. Asegúrate de que el nombre sea comprensible para todos.</p>
+<p><strong>5. Sin Caracteres Especiales Complicados:</strong><br />- Evita el uso de caracteres especiales o símbolos complicados. Pueden ser difíciles de recordar y escribir.</p>
+<p><strong>6. Consulta con Amigos:</strong><br />- Pregunta a tus amigos o compañeros de clase qué piensan sobre el nombre que has elegido. Puede ser útil tener diferentes perspectivas.</p>
+<p><strong>7. Investigación en Internet:</strong><br />- Antes de decidirte, realiza una búsqueda rápida en Internet para asegurarte de que el nombre no esté siendo utilizado por otro sitio web.</p>
+<p><strong>8. Facilidad de Pronunciación:</strong><br />- Opta por un nombre que sea fácil de pronunciar. Esto facilitará que tus amigos y profesores puedan hablar sobre tu sitio sin problemas.</p>
+<p><strong>10. Piensa en el Futuro:</strong><br />- Imagina cómo te sentirías acerca del nombre en el futuro. Asegúrate de que sea algo que te guste a largo plazo.</p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Elegir el nombre de nuestra página web (paso 4 de la anterior imagen) es algo muy importante, pues será la manera en que la gente que navega por internet puede encontrarla y además será la primera impresión que el visitante se llevará de nuestro espacio y de nosotros. </p>\n<figure class=\"exe-figure exe-image position-center license-pd\" style=\"width: 394px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-15_a_las_9.32.56.png\" alt=\"Chica y chico colaborando y trabajando con dispositivos electrónicos\" width=\"394\" height=\"394\" />\n<figcaption class=\"figcaption\"><span style=\"font-size: 10pt;\"><span class=\"author\">Imagen creada por la IA Dall-E en la app Canva</span>. <span class=\"title\"><em>Colaborando con dispositivos</em></span> <span class=\"license\"><span class=\"sep\">(</span>Dominio público<span class=\"sep\">)</span></span></span></figcaption>\n</figure>\n<p>Sigue los siguientes consejos:</p>\n<p><strong>1. Refleja el Contenido:</strong><br />- Asegúrate de que el nombre del sitio refleje el contenido o el propósito principal. Si es sobre animales, deportes o proyectos escolares, el nombre debería indicarlo claramente.</p>\n<p><strong>2. Fácil de Recordar:</strong><br />- Elige un nombre que sea fácil de recordar para tus compañeros de clase y profesores. Evita combinaciones complicadas o muy largas.</p>\n<p><strong>3. Creatividad y Originalidad:</strong><br />- ¡Sé creativo! Intenta pensar en un nombre único y original que destaque tu personalidad o el tema de tu sitio.</p>\n<p><strong>4. Evita Abreviaturas Confusas:</strong><br />- Evita abreviaturas que puedan ser confusas. Asegúrate de que el nombre sea comprensible para todos.</p>\n<p><strong>5. Sin Caracteres Especiales Complicados:</strong><br />- Evita el uso de caracteres especiales o símbolos complicados. Pueden ser difíciles de recordar y escribir.</p>\n<p><strong>6. Consulta con Amigos:</strong><br />- Pregunta a tus amigos o compañeros de clase qué piensan sobre el nombre que has elegido. Puede ser útil tener diferentes perspectivas.</p>\n<p><strong>7. Investigación en Internet:</strong><br />- Antes de decidirte, realiza una búsqueda rápida en Internet para asegurarte de que el nombre no esté siendo utilizado por otro sitio web.</p>\n<p><strong>8. Facilidad de Pronunciación:</strong><br />- Opta por un nombre que sea fácil de pronunciar. Esto facilitará que tus amigos y profesores puedan hablar sobre tu sitio sin problemas.</p>\n<p><strong>10. Piensa en el Futuro:</strong><br />- Imagina cómo te sentirías acerca del nombre en el futuro. Asegúrate de que sea algo que te guste a largo plazo.</p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-hajagzwnp</odePageId>
+      <odeBlockId>block-mo5vvs0m-rurfu8jjd</odeBlockId>
+      <blockName>PRIMEROS PASOS EN SITE. VÍDEO EXPLICATIVO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-hajagzwnp</odePageId>
+          <odeBlockId>block-mo5vvs0m-rurfu8jjd</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-h4t0t3vay</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>1. Elegir un nombre para la <span style="background-color: #00ff00;">WEB</span>.</p>
+<p>2. Elegir un nombre para la <span style="background-color: #00ff00;">PÁGINA DE INICIO</span>. </p>
+<p>3. <span style="background-color: #00ff00;">PUBLICAR</span>. </p>
+<p>4. Elegir la <span style="background-color: #00ff00;">DIRECCIÓN WEB DE NUESTRO SITE</span>. </p>
+<p>En el siguiente vídeo puedes conocer los primeros pasos que hemos de seguir tras crear nuestro site:</p>
+<p><iframe width="640" height="480" src="https://drive.google.com/file/d/197KEBLyG-U87ws4Puo_ExruBhJwXgRVC/preview" allow="autoplay"></iframe></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>1. Elegir un nombre para la <span style=\"background-color: #00ff00;\">WEB</span>.</p>\n<p>2. Elegir un nombre para la <span style=\"background-color: #00ff00;\">PÁGINA DE INICIO</span>. </p>\n<p>3. <span style=\"background-color: #00ff00;\">PUBLICAR</span>. </p>\n<p>4. Elegir la <span style=\"background-color: #00ff00;\">DIRECCIÓN WEB DE NUESTRO SITE</span>. </p>\n<p>En el siguiente vídeo puedes conocer los primeros pasos que hemos de seguir tras crear nuestro site:</p>\n<p><iframe width=\"640\" height=\"480\" src=\"https://drive.google.com/file/d/197KEBLyG-U87ws4Puo_ExruBhJwXgRVC/preview\" allow=\"autoplay\"></iframe></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-hajagzwnp</odePageId>
+      <odeBlockId>block-mo5vvs0m-0dobue1qh</odeBlockId>
+      <blockName>PUBLICAR PARA HACERNOS VISIBLES</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-hajagzwnp</odePageId>
+          <odeBlockId>block-mo5vvs0m-0dobue1qh</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-iq8w63ugs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Cualquier cambie que hagamos en SITE no se perderá a no ser que nosotros mismos lo borremos o cambiemos, pero esos cambios no serán visibles para los visitantes hasta que piquemos en PUBLICAR. </p>
+<p>Podéis comprobar cómo se hace y qué ocurre en el siguiente vídeo. </p>
+<p><iframe width="640" height="480" src="https://drive.google.com/file/d/1FVAAcDJkhwIGSuLVOJiFjzmCnTWvLPQL/preview" allow="autoplay"></iframe></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Cualquier cambie que hagamos en SITE no se perderá a no ser que nosotros mismos lo borremos o cambiemos, pero esos cambios no serán visibles para los visitantes hasta que piquemos en PUBLICAR. </p>\n<p>Podéis comprobar cómo se hace y qué ocurre en el siguiente vídeo. </p>\n<p><iframe width=\"640\" height=\"480\" src=\"https://drive.google.com/file/d/1FVAAcDJkhwIGSuLVOJiFjzmCnTWvLPQL/preview\" allow=\"autoplay\"></iframe></p>"}]]></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5vvs0l-5f4gedbjz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Compartir nuestro Site</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Compartir nuestro Site</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-5f4gedbjz</odePageId>
+      <odeBlockId>block-mo5vvs0m-tcf54sc7z</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-5f4gedbjz</odePageId>
+          <odeBlockId>block-mo5vvs0m-tcf54sc7z</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-wqjihhkdj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>No debemos confundir <span style="background-color: #ccffff;">compartir el site con otras personas</span> con <a href="publicar-el-site.html" title="Publicar el Site" class="exe-tooltip plain-tt"><span style="background-color: #ffff99;">publicar o compartir el site de forma pública.</span></a> </p>
+<p>Para compartir el site con otras personas y así hacerlas colaboradoras de nuestro espacio, actuáremos tal como se indica en el siguiente vídeo.</p>
+<p><iframe width="640" height="480" src="https://drive.google.com/file/d/1pECyZYAMKn0PdRXMW5ts87W1tH6ISpQ6/preview" allow="autoplay"></iframe></p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>No debemos confundir <span style=\"background-color: #ccffff;\">compartir el site con otras personas</span> con <a href=\"exe-node:page-mo5vvs0l-hajagzwnp\" title=\"Publicar el Site\" class=\"exe-tooltip plain-tt\"><span style=\"background-color: #ffff99;\">publicar o compartir el site de forma pública.</span></a> </p>\n<p>Para compartir el site con otras personas y así hacerlas colaboradoras de nuestro espacio, actuáremos tal como se indica en el siguiente vídeo.</p>\n<p><iframe width=\"640\" height=\"480\" src=\"https://drive.google.com/file/d/1pECyZYAMKn0PdRXMW5ts87W1tH6ISpQ6/preview\" allow=\"autoplay\"></iframe></p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5vvs0l-ylf3x0pyh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Crear la Estructura de Páginas (Árbol de Navegación)</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Crear la Estructura de Páginas (Árbol de Navegación)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-ylf3x0pyh</odePageId>
+      <odeBlockId>block-mo5vvs0m-g4o4cky7w</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-ylf3x0pyh</odePageId>
+          <odeBlockId>block-mo5vvs0m-g4o4cky7w</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-pzt8n3el2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Una vez creado nuestro site, hemos de pensar qué estructura de página queremos darle. Cierto es que, en cualquier momento, podemos crear, eliminar o mover páginas, pero tener claro desde un principio cuál será la estructura básica nos facilitará la labor. </p>
+<p>Para acceder al árbol de páginas lo haremos en la parte derecha de la pantalla, tal como vemos en la siguiente imagen. </p>
+<p><img src="{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-15_a_las_6.56.48.png" alt="Captura de pantalla del menú de páginas de sites" width="1421" height="627" /></p>
+<p>IMPORTANTE: Picando dos veces sobre el nombre de la página, podemos renombrarla y, picando sobre los tres puntitos que aparecen a la derecha de cada una de dichas páginas podemos realizar las siguientes acciones:</p>
+<p><img src="{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-15_a_las_10.00.23.png" alt="Captura de las opciones de edición de páginas en Sites" width="243" height="291" style="display: block; margin-left: auto; margin-right: auto;" />La opción de <strong><span style="background-color: #99ccff;">OCULTAR NAVEGACIÓN</span></strong> es interesante para hacer que una página de nuestro site deje de estar visible a los visitantes, aunque la sigamos teniendo. Esta acción se puede cambiar cuando queramos. <span style="background-color: #ff00ff;"><em><strong><span style="color: #ffff00;">Es muy útil cuando estamos creando una nueva página o subpágina y no queremos que se vea hasta que esté finalizada.</span> </strong></em></span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Una vez creado nuestro site, hemos de pensar qué estructura de página queremos darle. Cierto es que, en cualquier momento, podemos crear, eliminar o mover páginas, pero tener claro desde un principio cuál será la estructura básica nos facilitará la labor. </p>\n<p>Para acceder al árbol de páginas lo haremos en la parte derecha de la pantalla, tal como vemos en la siguiente imagen. </p>\n<p><img src=\"{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-15_a_las_6.56.48.png\" alt=\"Captura de pantalla del menú de páginas de sites\" width=\"1421\" height=\"627\" /></p>\n<p>IMPORTANTE: Picando dos veces sobre el nombre de la página, podemos renombrarla y, picando sobre los tres puntitos que aparecen a la derecha de cada una de dichas páginas podemos realizar las siguientes acciones:</p>\n<p><img src=\"{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-15_a_las_10.00.23.png\" alt=\"Captura de las opciones de edición de páginas en Sites\" width=\"243\" height=\"291\" style=\"display: block; margin-left: auto; margin-right: auto;\" />La opción de <strong><span style=\"background-color: #99ccff;\">OCULTAR NAVEGACIÓN</span></strong> es interesante para hacer que una página de nuestro site deje de estar visible a los visitantes, aunque la sigamos teniendo. Esta acción se puede cambiar cuando queramos. <span style=\"background-color: #ff00ff;\"><em><strong><span style=\"color: #ffff00;\">Es muy útil cuando estamos creando una nueva página o subpágina y no queremos que se vea hasta que esté finalizada.</span> </strong></em></span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-ylf3x0pyh</odePageId>
+      <odeBlockId>block-mo5vvs0m-seai7qcth</odeBlockId>
+      <blockName>CREANDO EL ÁRBOL DE PÁGINAS. VÍDEO EXPLICATIVO. </blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-ylf3x0pyh</odePageId>
+          <odeBlockId>block-mo5vvs0m-seai7qcth</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-jn09rtie9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>En el siguiente vídeo, podemos comprobar cómo creamos páginas, subpáginas, las renombramos, movemos, etc. </p>
+<p><iframe width="640" height="480" src="https://drive.google.com/file/d/1lUn1fLeFELu_FbB2GcGJuY95o4vwfNZQ/preview" allow="autoplay"></iframe></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>En el siguiente vídeo, podemos comprobar cómo creamos páginas, subpáginas, las renombramos, movemos, etc. </p>\n<p><iframe width=\"640\" height=\"480\" src=\"https://drive.google.com/file/d/1lUn1fLeFELu_FbB2GcGJuY95o4vwfNZQ/preview\" allow=\"autoplay\"></iframe></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-ylf3x0pyh</odePageId>
+      <odeBlockId>block-mo5vvs0m-uet0wgz1o</odeBlockId>
+      <blockName>OPCIONES DE MANEJO DE LAS PÁGINAS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-ylf3x0pyh</odePageId>
+          <odeBlockId>block-mo5vvs0m-uet0wgz1o</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-fyd04qnpq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>IMPORTANTE: Picando dos veces sobre el nombre de la página, podemos renombrarla y, picando sobre los tres puntitos que aparecen a la derecha de cada una de dichas páginas podemos realizar las siguientes acciones:</p>
+<p><img src="{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-15_a_las_10.00.23.png" alt="Opciones de manejo del árbol de páginas de sites" width="274" height="328" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>La opción de <span style="background-color: #cc99ff;"><strong>OCULTAR NAVEGACIÓN</strong></span> es interesante para hacer que una página de nuestro site deje de estar visible a los visitantes, aunque la sigamos teniendo. Esta acción se puede cambiar cuando queramos. <em><strong><span style="background-color: #cc99ff;">Es muy útil cuando estamos creando una nueva página o subpágina y no queremos que se vea hasta que esté finalizada. </span></strong></em></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>IMPORTANTE: Picando dos veces sobre el nombre de la página, podemos renombrarla y, picando sobre los tres puntitos que aparecen a la derecha de cada una de dichas páginas podemos realizar las siguientes acciones:</p>\n<p><img src=\"{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-15_a_las_10.00.23.png\" alt=\"Opciones de manejo del árbol de páginas de sites\" width=\"274\" height=\"328\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>La opción de <span style=\"background-color: #cc99ff;\"><strong>OCULTAR NAVEGACIÓN</strong></span> es interesante para hacer que una página de nuestro site deje de estar visible a los visitantes, aunque la sigamos teniendo. Esta acción se puede cambiar cuando queramos. <em><strong><span style=\"background-color: #cc99ff;\">Es muy útil cuando estamos creando una nueva página o subpágina y no queremos que se vea hasta que esté finalizada. </span></strong></em></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5vvs0l-8vqsw4ja2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Pie de Página</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Pie de Página</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-8vqsw4ja2</odePageId>
+      <odeBlockId>block-mo5vvs0m-rxdj02yny</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-8vqsw4ja2</odePageId>
+          <odeBlockId>block-mo5vvs0m-rxdj02yny</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-u75otwvmm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>El pie de página es un elemento que SERÁ VISIBLE EN TODAS LAS PÁGINAS Y SUBPÁGINAS de nuestro Site. </p>
+<p>Normalmente se usa para poner:</p>
+<p>- Nuestro nombre. </p>
+<p>- Título de la Web.</p>
+<p>- Licencia con la que compartimos nuestro Site. </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>El pie de página es un elemento que SERÁ VISIBLE EN TODAS LAS PÁGINAS Y SUBPÁGINAS de nuestro Site. </p>\n<p>Normalmente se usa para poner:</p>\n<p>- Nuestro nombre. </p>\n<p>- Título de la Web.</p>\n<p>- Licencia con la que compartimos nuestro Site. </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-8vqsw4ja2</odePageId>
+      <odeBlockId>block-mo5vvs0m-2xfppzwh2</odeBlockId>
+      <blockName>VÍDEO EXPLICATIVO DE EDICIÓN DEL PIE DE PÁGINA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-8vqsw4ja2</odePageId>
+          <odeBlockId>block-mo5vvs0m-2xfppzwh2</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-wctprz1um</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>En el siguiente vídeo explicamos cómo gestionar el pie de página de nuestro Site. </p>
+<p><iframe width="640" height="480" src="https://drive.google.com/file/d/1fwQJO9tJKJ-592yBxcFIt3IM0dKLVjZn/preview" allow="autoplay"></iframe></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>En el siguiente vídeo explicamos cómo gestionar el pie de página de nuestro Site. </p>\n<p><iframe width=\"640\" height=\"480\" src=\"https://drive.google.com/file/d/1fwQJO9tJKJ-592yBxcFIt3IM0dKLVjZn/preview\" allow=\"autoplay\"></iframe></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5vvs0l-zxfczuojf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Licencia de tu site</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencia de tu site</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-zxfczuojf</odePageId>
+      <odeBlockId>block-mo5vvs0m-swoe6f77b</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-zxfczuojf</odePageId>
+          <odeBlockId>block-mo5vvs0m-swoe6f77b</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-c2u0w8yds</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p></p>
+<p>Antes de nada, hemos de familiarizarnos con los diferentes tipos de licencias Creative Commons. Lee detenidamente la siguiente infografía. </p>
+<figure class="exe-figure exe-image position-center license-CC-BY-NC-SA" style="width: 798px; text-align: center;"><img src="{{context_path}}/content/resources/Licencia_CC.png" alt="Licencias Creative Commons" width="798" height="1978" />
+<figcaption class="figcaption"><span style="font-size: 10pt;"><span class="author">CRUE - Universidades Españolas - Red de Bibliotecas REBIUN</span>. <a href="https://libapps-eu.s3.amazonaws.com/accounts/145617/images/Licencia_CC.png" target="_blank" class="title" rel="noopener"><em>Licencias Creative Commons</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></span></figcaption>
+</figure>
+<p>Una vez que tenemos clara la licencia Creative Commons que queremos otorgar a nuestro site, para otorgarla hemos de dirigirnos a esta <a href="https://chooser-beta.creativecommons.org/" target="_blank" rel="noopener">página web</a>. En ella podemos seguir los pasos que se recogen en este <a href="https://drive.google.com/file/d/1KBmPDCurE4ArzIpf3cQwW3bkFnESPsHk/view?usp=sharing" target="_blank" rel="noopener">documento</a>. </p>
+<p>Puedes ver también el siguiente vídeo. </p>
+<p><iframe width="640" height="480" src="https://drive.google.com/file/d/1ArUtRs8SAAxdgrpBgxQ0ObMRrXkBgAOL/preview"></iframe></p>
+<p></p>
+<p>El lugar adecuado para poner la licencia de nuestro site sería el <a href="exe-node:page-mo5vvs0l-cfwh9wn2o9" title="Pie de Página" class="exe-tooltip plain-tt">pie de página</a>, pues así saldría en todas las páginas y subpáginas de nuestra web. </p>
+<p>También deberíamos ponerlo en el título de la página de inicio. </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p></p>\n<p>Antes de nada, hemos de familiarizarnos con los diferentes tipos de licencias Creative Commons. Lee detenidamente la siguiente infografía. </p>\n<figure class=\"exe-figure exe-image position-center license-CC-BY-NC-SA\" style=\"width: 798px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Licencia_CC.png\" alt=\"Licencias Creative Commons\" width=\"798\" height=\"1978\" />\n<figcaption class=\"figcaption\"><span style=\"font-size: 10pt;\"><span class=\"author\">CRUE - Universidades Españolas - Red de Bibliotecas REBIUN</span>. <a href=\"https://libapps-eu.s3.amazonaws.com/accounts/145617/images/Licencia_CC.png\" target=\"_blank\" class=\"title\" rel=\"noopener\"><em>Licencias Creative Commons</em></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></span></figcaption>\n</figure>\n<p>Una vez que tenemos clara la licencia Creative Commons que queremos otorgar a nuestro site, para otorgarla hemos de dirigirnos a esta <a href=\"https://chooser-beta.creativecommons.org/\" target=\"_blank\" rel=\"noopener\">página web</a>. En ella podemos seguir los pasos que se recogen en este <a href=\"https://drive.google.com/file/d/1KBmPDCurE4ArzIpf3cQwW3bkFnESPsHk/view?usp=sharing\" target=\"_blank\" rel=\"noopener\">documento</a>. </p>\n<p>Puedes ver también el siguiente vídeo. </p>\n<p><iframe width=\"640\" height=\"480\" src=\"https://drive.google.com/file/d/1ArUtRs8SAAxdgrpBgxQ0ObMRrXkBgAOL/preview\"></iframe></p>\n<p></p>\n<p>El lugar adecuado para poner la licencia de nuestro site sería el <a href=\"exe-node:page-mo5vvs0l-cfwh9wn2o9\" title=\"Pie de Página\" class=\"exe-tooltip plain-tt\">pie de página</a>, pues así saldría en todas las páginas y subpáginas de nuestra web. </p>\n<p>También deberíamos ponerlo en el título de la página de inicio. </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5vvs0l-fvvdzbgq8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Insertar y Subir elementos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Insertar y Subir elementos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-fvvdzbgq8</odePageId>
+      <odeBlockId>block-mo5vvs0m-zna09shz4</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-fvvdzbgq8</odePageId>
+          <odeBlockId>block-mo5vvs0m-zna09shz4</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-ep7hlxjjd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Subir elementos a nuestro sites es algo muy fácil, pues lo podemos hacer todo en el menú "INSERTAR" que tenemos en la parte derecha de la pantalla o bien picando dos veces en el lugar en el que queremos insertar dicho elemento. </p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Subir elementos a nuestro sites es algo muy fácil, pues lo podemos hacer todo en el menú \"INSERTAR\" que tenemos en la parte derecha de la pantalla o bien picando dos veces en el lugar en el que queremos insertar dicho elemento. </p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-fvvdzbgq8</odePageId>
+      <odeBlockId>block-mo5vvs0m-3qy9xdk3k</odeBlockId>
+      <blockName>¿Qué podemos insertar?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-fvvdzbgq8</odePageId>
+          <odeBlockId>block-mo5vvs0m-3qy9xdk3k</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-vwokp7dsx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Podemos insertar prácticamente cualquier producto que hayamos elaborado y para ello tenemos dos opciones:</p>
+<p>1. Hacerlo desde nuestro Google Drive, que es la opción más recomendable. </p>
+<p>2. Buscarlo en la web, sobre todo vídeos de Youtube e imágenes. </p>
+<p>3. Subirlo desde nuestro ordenador. </p>
+<p>En el siguiente vídeo explicamos las diferentes opciones. </p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Podemos insertar prácticamente cualquier producto que hayamos elaborado y para ello tenemos dos opciones:</p>\n<p>1. Hacerlo desde nuestro Google Drive, que es la opción más recomendable. </p>\n<p>2. Buscarlo en la web, sobre todo vídeos de Youtube e imágenes. </p>\n<p>3. Subirlo desde nuestro ordenador. </p>\n<p>En el siguiente vídeo explicamos las diferentes opciones. </p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-fvvdzbgq8</odePageId>
+      <odeBlockId>block-mo5vvs0m-c7erqomfy</odeBlockId>
+      <blockName>Insertar mediante doble click</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-fvvdzbgq8</odePageId>
+          <odeBlockId>block-mo5vvs0m-c7erqomfy</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-c9hv4k4lg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>A parte de en el menú lateral, podemos insertar:</p>
+<p>- TEXTO.</p>
+<p>- SUBIR ELEMENTOS DE NUESTRO ORDENADOR.</p>
+<p>- INSERTAR IMÁGENES DESDE DRIVE O GOOGLE.</p>
+<p>- INSERTAR CÓDIGO HTML (Se explica más bajo en qué consiste). <br /><br /> <img src="{{context_path}}/content/resources/Insertar.jpg" alt="Insertar mediante doble clic" width="631" height="408" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>A continuación podemos ver un vídeo explicando todo lo anterior:</p>
+<p><iframe width="640" height="480" src="https://drive.google.com/file/d/13mlrS9yyKjdhlFUWK7T4-BkKwnDkEMy4/preview" allow="autoplay"></iframe></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>A parte de en el menú lateral, podemos insertar:</p>\n<p>- TEXTO.</p>\n<p>- SUBIR ELEMENTOS DE NUESTRO ORDENADOR.</p>\n<p>- INSERTAR IMÁGENES DESDE DRIVE O GOOGLE.</p>\n<p>- INSERTAR CÓDIGO HTML (Se explica más bajo en qué consiste). <br /><br /> <img src=\"{{context_path}}/content/resources/Insertar.jpg\" alt=\"Insertar mediante doble clic\" width=\"631\" height=\"408\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>A continuación podemos ver un vídeo explicando todo lo anterior:</p>\n<p><iframe width=\"640\" height=\"480\" src=\"https://drive.google.com/file/d/13mlrS9yyKjdhlFUWK7T4-BkKwnDkEMy4/preview\" allow=\"autoplay\"></iframe></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-fvvdzbgq8</odePageId>
+      <odeBlockId>block-mo5vvs0m-hruisciez</odeBlockId>
+      <blockName>Menú INSERTAR</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-fvvdzbgq8</odePageId>
+          <odeBlockId>block-mo5vvs0m-hruisciez</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-4x42p00oa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Para Insertar cualquier elemento, hemos de dirigirnos al menú lateral y picar en INSERTAR, una vez lo hacemos, se despliega un menú con todo lo que podemos insertar. </p>
+<p><img src="{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-15_a_las_16.28.31.png" alt="" width="294" height="661" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>En el siguiente vídeo se explica el proceso de uso de las diferentes opciones de inserción desde el menú INSERTAR.</p>
+<p><iframe width="640" height="480" src="https://drive.google.com/file/d/1X_q3vVeOC_pCyEMx9rSPhmRAwFmbcyHZ/preview" allow="autoplay"></iframe></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Para Insertar cualquier elemento, hemos de dirigirnos al menú lateral y picar en INSERTAR, una vez lo hacemos, se despliega un menú con todo lo que podemos insertar. </p>\n<p><img src=\"{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-15_a_las_16.28.31.png\" alt=\"\" width=\"294\" height=\"661\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>En el siguiente vídeo se explica el proceso de uso de las diferentes opciones de inserción desde el menú INSERTAR.</p>\n<p><iframe width=\"640\" height=\"480\" src=\"https://drive.google.com/file/d/1X_q3vVeOC_pCyEMx9rSPhmRAwFmbcyHZ/preview\" allow=\"autoplay\"></iframe></p>"}]]></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-fvvdzbgq8</odePageId>
+      <odeBlockId>block-mo5vvs0m-5eoyw2hwu</odeBlockId>
+      <blockName>Insertar Código HTML</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-fvvdzbgq8</odePageId>
+          <odeBlockId>block-mo5vvs0m-5eoyw2hwu</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-17qly0j9s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Como hemos visto anteriormente, podemos insertar elementos mediante su código HTML. Este código se va a encontrar en diferente sitio en función del producto que hayamos generado y de la aplicación que estemos usando. </p>
+<p>En el siguiente vídeo ejemplificamos con una presentación de Genial.ly.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Como hemos visto anteriormente, podemos insertar elementos mediante su código HTML. Este código se va a encontrar en diferente sitio en función del producto que hayamos generado y de la aplicación que estemos usando. </p>\n<p>En el siguiente vídeo ejemplificamos con una presentación de Genial.ly.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>4</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5vvs0l-bgjbub5rj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Consejos de redacción y organización de páginas</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Consejos de redacción y organización de páginas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-bgjbub5rj</odePageId>
+      <odeBlockId>block-mo5vvs0m-x74bj6wel</odeBlockId>
+      <blockName>CÓMO DEBE SER LA REDACCIÓN DE NUESTROS TEXTOS EN SITE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-bgjbub5rj</odePageId>
+          <odeBlockId>block-mo5vvs0m-x74bj6wel</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-4anb5qmob</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p></p>
+<figure class="exe-figure exe-image position-center license-pd" style="width: 404px; text-align: center;"><img src="{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-15_a_las_19.31.24.png" alt="" width="404" height="403" hspace="auto" style="display: block; margin-left: auto; margin-right: auto;" />
+<figcaption class="figcaption"><span style="font-size: 10pt;"><span class="author">Imagen creada con la IA de Dall-E y Canva</span>. <br /><span class="title"><em>Redactando un texto digital</em></span> <span class="license"><span class="sep">(</span>Dominio público<span class="sep">)</span></span></span></figcaption>
+</figure>
+<p><span style="background-color: #ccffff;"><strong><br /><br /></strong></span></p>
+<p><span style="background-color: #ccffff;"><strong>1. Claro y Conciso:</strong></span><br />- Sé claro y conciso al expresar tus ideas. Evita frases muy largas y trata de explicar tus pensamientos de manera sencilla.</p>
+<p><strong><span style="background-color: #ccffff;">2. Oraciones Completas:</span></strong><br />- Asegúrate de que cada oración tenga un sujeto (quién o qué) y un predicado (qué están haciendo o qué les está sucediendo).</p>
+<p><strong><span style="background-color: #ccffff;">3. Organización:</span></strong><br />- Organiza tus ideas de manera lógica. Puedes utilizar subtítulos o enumeraciones para dividir tu contenido y facilitar su lectura.</p>
+<p><strong><span style="background-color: #ccffff;">4. Uso de Párrafos:</span></strong><br />- Divide tu texto en párrafos cortos para hacerlo más legible. Cada párrafo debe centrarse en una idea específica.</p>
+<p><strong><span style="background-color: #ccffff;">5. Vocabulario Adecuado:</span></strong><br />- Utiliza un vocabulario que sea comprensible para tu audiencia. Si usas palabras nuevas, asegúrate de explicar su significado.</p>
+<p><strong><span style="background-color: #ccffff;">6. Evita Repeticiones Excesivas:</span></strong><br />- Intenta no repetir constantemente las mismas palabras. Si necesitas repetir algo, busca sinónimos para mantener el interés del lector.</p>
+<p><span style="background-color: #ccffff;"><strong>7. Uso de Imágenes:</strong></span><br />- Añade imágenes relacionadas con tu tema para hacer tu sitio más atractivo. Puedes etiquetarlas o describirlas brevemente.</p>
+<p><span style="background-color: #ccffff;"><strong>8. Revisión y Corrección:</strong></span><br />- Antes de publicar, revisa tu texto para corregir posibles errores de ortografía y gramática. Puedes pedir a un compañero o tu profesor que también lo revisen.</p>
+<p><span style="background-color: #ccffff;"><strong>9. Historias Interesantes:</strong></span><br />- Si estás escribiendo una historia, intenta hacerla interesante utilizando descripciones y diálogos que capturen la atención del lector.</p>
+<p><span style="background-color: #ccffff;"><strong>10. Incluye Tu Opinión:</strong></span><br />- Si estás escribiendo sobre algo que te gusta, no tengas miedo de incluir tu opinión. A la gente le gusta conocer tus pensamientos y sentimientos.</p>
+<p><span style="background-color: #ccffff;"><strong>11. Pregunta a Otros:</strong></span><br />- Después de escribir, pregunta a tus amigos o compañeros de clase qué piensan de tu texto. Sus comentarios pueden ser muy útiles.</p>
+<p>Recuerda que la práctica hace al maestro. ¡Diviértete escribiendo y experimenta con diferentes estilos!</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p></p>\n<figure class=\"exe-figure exe-image position-center license-pd\" style=\"width: 404px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-15_a_las_19.31.24.png\" alt=\"\" width=\"404\" height=\"403\" hspace=\"auto\" style=\"display: block; margin-left: auto; margin-right: auto;\" />\n<figcaption class=\"figcaption\"><span style=\"font-size: 10pt;\"><span class=\"author\">Imagen creada con la IA de Dall-E y Canva</span>. <br /><span class=\"title\"><em>Redactando un texto digital</em></span> <span class=\"license\"><span class=\"sep\">(</span>Dominio público<span class=\"sep\">)</span></span></span></figcaption>\n</figure>\n<p><span style=\"background-color: #ccffff;\"><strong><br /><br /></strong></span></p>\n<p><span style=\"background-color: #ccffff;\"><strong>1. Claro y Conciso:</strong></span><br />- Sé claro y conciso al expresar tus ideas. Evita frases muy largas y trata de explicar tus pensamientos de manera sencilla.</p>\n<p><strong><span style=\"background-color: #ccffff;\">2. Oraciones Completas:</span></strong><br />- Asegúrate de que cada oración tenga un sujeto (quién o qué) y un predicado (qué están haciendo o qué les está sucediendo).</p>\n<p><strong><span style=\"background-color: #ccffff;\">3. Organización:</span></strong><br />- Organiza tus ideas de manera lógica. Puedes utilizar subtítulos o enumeraciones para dividir tu contenido y facilitar su lectura.</p>\n<p><strong><span style=\"background-color: #ccffff;\">4. Uso de Párrafos:</span></strong><br />- Divide tu texto en párrafos cortos para hacerlo más legible. Cada párrafo debe centrarse en una idea específica.</p>\n<p><strong><span style=\"background-color: #ccffff;\">5. Vocabulario Adecuado:</span></strong><br />- Utiliza un vocabulario que sea comprensible para tu audiencia. Si usas palabras nuevas, asegúrate de explicar su significado.</p>\n<p><strong><span style=\"background-color: #ccffff;\">6. Evita Repeticiones Excesivas:</span></strong><br />- Intenta no repetir constantemente las mismas palabras. Si necesitas repetir algo, busca sinónimos para mantener el interés del lector.</p>\n<p><span style=\"background-color: #ccffff;\"><strong>7. Uso de Imágenes:</strong></span><br />- Añade imágenes relacionadas con tu tema para hacer tu sitio más atractivo. Puedes etiquetarlas o describirlas brevemente.</p>\n<p><span style=\"background-color: #ccffff;\"><strong>8. Revisión y Corrección:</strong></span><br />- Antes de publicar, revisa tu texto para corregir posibles errores de ortografía y gramática. Puedes pedir a un compañero o tu profesor que también lo revisen.</p>\n<p><span style=\"background-color: #ccffff;\"><strong>9. Historias Interesantes:</strong></span><br />- Si estás escribiendo una historia, intenta hacerla interesante utilizando descripciones y diálogos que capturen la atención del lector.</p>\n<p><span style=\"background-color: #ccffff;\"><strong>10. Incluye Tu Opinión:</strong></span><br />- Si estás escribiendo sobre algo que te gusta, no tengas miedo de incluir tu opinión. A la gente le gusta conocer tus pensamientos y sentimientos.</p>\n<p><span style=\"background-color: #ccffff;\"><strong>11. Pregunta a Otros:</strong></span><br />- Después de escribir, pregunta a tus amigos o compañeros de clase qué piensan de tu texto. Sus comentarios pueden ser muy útiles.</p>\n<p>Recuerda que la práctica hace al maestro. ¡Diviértete escribiendo y experimenta con diferentes estilos!</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-bgjbub5rj</odePageId>
+      <odeBlockId>block-mo5vvs0m-s1heomx2k</odeBlockId>
+      <blockName>LISTA DE COTEJO PARA VALORAR TU REDACCIÓN EN SITE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-bgjbub5rj</odePageId>
+          <odeBlockId>block-mo5vvs0m-s1heomx2k</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-cz22ymae7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Debes usar la siguiente lista de cotejo con el fin de valorar si las redacciones que estás haciendo en tu SITE son correctas. Lo idóneo es que seas capaz de contestar a todo con un <span style="background-color: #ccffff;">SÍ</span>. En caso de que haya algún <span style="background-color: #ccffff;">NO</span>, deberías repensar y reelaborar tu texto. </p>
+<p><img src="{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-15_a_las_10.13.39.png" alt="Lista de cotejo para evaluar la redacción en site" width="708" height="575" style="display: block; margin-left: auto; margin-right: auto;" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Debes usar la siguiente lista de cotejo con el fin de valorar si las redacciones que estás haciendo en tu SITE son correctas. Lo idóneo es que seas capaz de contestar a todo con un <span style=\"background-color: #ccffff;\">SÍ</span>. En caso de que haya algún <span style=\"background-color: #ccffff;\">NO</span>, deberías repensar y reelaborar tu texto. </p>\n<p><img src=\"{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-15_a_las_10.13.39.png\" alt=\"Lista de cotejo para evaluar la redacción en site\" width=\"708\" height=\"575\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-bgjbub5rj</odePageId>
+      <odeBlockId>block-mo5vvs0m-529kgm9dr</odeBlockId>
+      <blockName>Consejos para tener buen orden y presentación en el Site</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-bgjbub5rj</odePageId>
+          <odeBlockId>block-mo5vvs0m-529kgm9dr</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-fxaocx7j1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<figure class="exe-figure exe-image position-center license-pd" style="width: 399px; text-align: center;"><img src="{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-15_a_las_19.29.03.png" alt="" width="399" height="389" />
+<figcaption class="figcaption"><span style="font-size: 10pt;"><span class="author">Imagen creada con la IA de Dall-E y Canva</span>. <br /><span class="title"><em>Organización digital</em></span> <span class="license"><span class="sep">(</span>Dominio público<span class="sep">)</span></span></span></figcaption>
+</figure>
+<p>1. Jerarquía de Contenido:<br />- Organiza tu contenido con una estructura de jerarquía clara. Usa encabezados (títulos y subtítulos) para destacar secciones importantes.</p>
+<p>2. Divide en Secciones:<br />- Divide tu página en secciones para diferentes temas. Esto facilita la navegación y la comprensión del contenido.</p>
+<p>3. Uso de Párrafos y Listas:<br />- Utiliza párrafos y listas para separar y destacar información. Los párrafos son ideales para descripciones, mientras que las listas son útiles para enumerar elementos.</p>
+<p>4. Imágenes y Videos Relevantes:<br />- Añade imágenes y videos que sean relevantes para el contenido. Asegúrate de que tengan buena calidad y estén correctamente alineados.</p>
+<p>5. Tamaño Adecuado de Imágenes:<br />- Ajusta el tamaño de las imágenes para que no sean ni demasiado pequeñas ni demasiado grandes. Un equilibrio adecuado mejora la estética de la página.</p>
+<p>6. Textos Breves y Concisos:<br />- Evita bloques largos de texto. Mantén tus textos breves y concisos para que sean fáciles de leer y retener.</p>
+<p>7. Colores y Fuentes Coherentes:<br />- Mantén una paleta de colores y fuentes coherente en todo el sitio. Esto crea una apariencia profesional y fácil de seguir.</p>
+<p>8. Enlaces Relevantes:<br />- Agrega enlaces a otras páginas o recursos relacionados. Asegúrate de que los enlaces tengan nombres descriptivos.</p>
+<p>9. Códigos HTML con Moderación:<br />- Si usas códigos HTML, hazlo con moderación y asegúrate de comprender cómo afectan la apariencia y funcionalidad de la página.</p>
+<p>10. Prueba de Navegación:<br />- Realiza pruebas de navegación para asegurarte de que los visitantes pueden moverse fácilmente por tu sitio. Verifica que los enlaces funcionen correctamente.</p>
+<p>11. Compatibilidad Móvil:<br />- Asegúrate de que tu sitio sea compatible con dispositivos móviles. Muchas personas acceden a sitios web desde sus teléfonos o tabletas.</p>
+<p>12. Espaciado Adecuado:<br />- Utiliza espaciado adecuado entre elementos para evitar la sensación de aglomeración. El espaciado adecuado mejora la legibilidad.</p>
+<p>13. Actualizaciones Regulares:<br />- Realiza actualizaciones periódicas para mantener la información relevante y tu sitio fresco. Elimina elementos obsoletos o desactualizados.</p>
+<p>14. Feedback de Usuarios:<br />- Pide a tus compañeros o profesores que revisen tu sitio y te den feedback. Puede ofrecer valiosas perspectivas para mejorar la presentación.</p>
+<p><strong><span style="background-color: #00ffff; color: #000080;">Con estos consejos podrás crear páginas en tu Google Site que sean organizadas, visualmente atractivas y fáciles de navegar.</span></strong></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<figure class=\"exe-figure exe-image position-center license-pd\" style=\"width: 399px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-15_a_las_19.29.03.png\" alt=\"\" width=\"399\" height=\"389\" />\n<figcaption class=\"figcaption\"><span style=\"font-size: 10pt;\"><span class=\"author\">Imagen creada con la IA de Dall-E y Canva</span>. <br /><span class=\"title\"><em>Organización digital</em></span> <span class=\"license\"><span class=\"sep\">(</span>Dominio público<span class=\"sep\">)</span></span></span></figcaption>\n</figure>\n<p>1. Jerarquía de Contenido:<br />- Organiza tu contenido con una estructura de jerarquía clara. Usa encabezados (títulos y subtítulos) para destacar secciones importantes.</p>\n<p>2. Divide en Secciones:<br />- Divide tu página en secciones para diferentes temas. Esto facilita la navegación y la comprensión del contenido.</p>\n<p>3. Uso de Párrafos y Listas:<br />- Utiliza párrafos y listas para separar y destacar información. Los párrafos son ideales para descripciones, mientras que las listas son útiles para enumerar elementos.</p>\n<p>4. Imágenes y Videos Relevantes:<br />- Añade imágenes y videos que sean relevantes para el contenido. Asegúrate de que tengan buena calidad y estén correctamente alineados.</p>\n<p>5. Tamaño Adecuado de Imágenes:<br />- Ajusta el tamaño de las imágenes para que no sean ni demasiado pequeñas ni demasiado grandes. Un equilibrio adecuado mejora la estética de la página.</p>\n<p>6. Textos Breves y Concisos:<br />- Evita bloques largos de texto. Mantén tus textos breves y concisos para que sean fáciles de leer y retener.</p>\n<p>7. Colores y Fuentes Coherentes:<br />- Mantén una paleta de colores y fuentes coherente en todo el sitio. Esto crea una apariencia profesional y fácil de seguir.</p>\n<p>8. Enlaces Relevantes:<br />- Agrega enlaces a otras páginas o recursos relacionados. Asegúrate de que los enlaces tengan nombres descriptivos.</p>\n<p>9. Códigos HTML con Moderación:<br />- Si usas códigos HTML, hazlo con moderación y asegúrate de comprender cómo afectan la apariencia y funcionalidad de la página.</p>\n<p>10. Prueba de Navegación:<br />- Realiza pruebas de navegación para asegurarte de que los visitantes pueden moverse fácilmente por tu sitio. Verifica que los enlaces funcionen correctamente.</p>\n<p>11. Compatibilidad Móvil:<br />- Asegúrate de que tu sitio sea compatible con dispositivos móviles. Muchas personas acceden a sitios web desde sus teléfonos o tabletas.</p>\n<p>12. Espaciado Adecuado:<br />- Utiliza espaciado adecuado entre elementos para evitar la sensación de aglomeración. El espaciado adecuado mejora la legibilidad.</p>\n<p>13. Actualizaciones Regulares:<br />- Realiza actualizaciones periódicas para mantener la información relevante y tu sitio fresco. Elimina elementos obsoletos o desactualizados.</p>\n<p>14. Feedback de Usuarios:<br />- Pide a tus compañeros o profesores que revisen tu sitio y te den feedback. Puede ofrecer valiosas perspectivas para mejorar la presentación.</p>\n<p><strong><span style=\"background-color: #00ffff; color: #000080;\">Con estos consejos podrás crear páginas en tu Google Site que sean organizadas, visualmente atractivas y fáciles de navegar.</span></strong></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-bgjbub5rj</odePageId>
+      <odeBlockId>block-mo5vvs0m-49kl562iq</odeBlockId>
+      <blockName>Lista de Cotejo para valorar el orden del Site</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-bgjbub5rj</odePageId>
+          <odeBlockId>block-mo5vvs0m-49kl562iq</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-2s1zjar94</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-15_a_las_19.38.32.png" alt="Lista de Cotejo organización site" width="634" height="758" style="display: block; margin-left: auto; margin-right: auto;" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/Captura_de_Pantalla_2023-11-15_a_las_19.38.32.png\" alt=\"Lista de Cotejo organización site\" width=\"634\" height=\"758\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo5vvs0l-i3tnbarxx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo5vvs0l-i3tnbarxx</odePageId>
+      <odeBlockId>block-mo5vvs0m-clw06vdmu</odeBlockId>
+      <blockName>Descargar archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo5vvs0l-i3tnbarxx</odePageId>
+          <odeBlockId>block-mo5vvs0m-clw06vdmu</odeBlockId>
+          <odeIdeviceId>idevice-mo5vvs0m-fmjrh30fc</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>NUESTRO SITE ORGANIZADO</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>Exe learning en el que explicamos cómo crear un Site de Google y su gestión. Dirigido a alumnado de tercer ciclo de Educación Primaria.</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>Gustavo Vegas Haro</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license" class="cc cc-by-nc-sa"><span></span>Creative Commons BY-NC-SA 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a href="exe-package:elp">Descargar el fichero .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
